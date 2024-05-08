@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("backgroung_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.container {
+    max-width: 1000px;
+    margin: 200 500;
+    padding: 40px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+h1 {
+    margin-bottom: 35px;
+    font-size: 44px;
+    left: 10px;
+    font-family: cursive;
+    color: antiquewhite;
+}
+
+#randomBtn
+{
+    background: transparent;
+    color: azure;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 16px;
+    margin-left: 50px   ;
+}
+
+#authorSearch
+{
+    margin-left: 120px;
+    border: none;
+    color: aliceblue;
+    size: 18px;
+    background: transparent;
+}
+
+#quoteDisplay {
+    margin-top: 100px;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+}
